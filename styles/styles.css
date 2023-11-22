@@ -993,9 +993,8 @@ a {
   color: green; 
   text-decoration: underline; 
 }
-
 a:hover {
-  color: red; 
+  color: red;
 }
 .blog{
   text-align: justify;
